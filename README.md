@@ -1,11 +1,11 @@
 # Machine Learning (Coursera - Stanford University)
 
-Programming Assignments in Octave for the course taught by Prof. Andrew Ng
+Programming Assignments in Octave for the ML course taught by Prof. Andrew Ng
 
 Contents:
-1) Exercise 1: Linear Regression
-2) Exercise 2: Logistic Regression
+* Ex 1 - Linear Regression
+* Ex 2 - Logistic Regression
 
+Link to Course: [Course](https://www.coursera.org/learn/machine-learning)
 
-Link to course: [Link](https://www.coursera.org/learn/machine-learning)
-Link to certificate: [Link](https://www.coursera.org/learn/machine-learning) 
+<!--Link to certificate: [Certificate](https://www.coursera.org/learn/machine-learning)> 
